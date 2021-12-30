@@ -14,6 +14,9 @@ public class Removewhitespace {
         	s2=s2+s1[i];
         	
         }
+        
+        
+        
         System.out.println(s2);
         
 		
