@@ -18,6 +18,7 @@ public class Occurenceofspacificword {
 			
 		}
 		System.out.println(count);
+		System.out.println(count);
 			
 
 	}
